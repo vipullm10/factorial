@@ -1,4 +1,4 @@
-# fibonacci
+# factorial
 
 The basic idea that i can come up with is to break down the very large factorial of a number like 100 into smaller parts
 For eg , if we are calculating the factorial of 10 , we can distribute it's results in chunks :-
